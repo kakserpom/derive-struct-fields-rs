@@ -2,3 +2,4 @@
 name = "derive_struct_fields"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/kyle-mccarthy/kakserpom/derive-struct-fields-rs"
