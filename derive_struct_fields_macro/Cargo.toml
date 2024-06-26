@@ -2,11 +2,12 @@
 name = "derive_struct_fields_macro"
 version = "0.1.0"
 edition = "2021"
-repository = "https://github.com/kyle-mccarthy/kakserpom/derive-struct-fields-rs"
+repository = "https://github.com/kakserpom/derive-struct-fields-rs"
+license = "MIT"
+description = "A simple way to work with struct fields programmatically."
 [dependencies]
 syn = "1.0"
 quote = "1.0"
 proc-macro2 = "1.0"
-
 [lib]
 proc-macro = true

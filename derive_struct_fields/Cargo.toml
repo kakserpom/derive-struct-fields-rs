@@ -1,5 +1,7 @@
 [package]
 name = "derive_struct_fields"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-repository = "https://github.com/kyle-mccarthy/kakserpom/derive-struct-fields-rs"
+repository = "https://github.com/kakserpom/derive-struct-fields-rs"
+license = "MIT"
+description = "A simple way to work with struct fields programmatically."
